@@ -7,4 +7,5 @@ sh ./autobuild.sh
 or
 
 cd build/
+
 cmake .. && make 
