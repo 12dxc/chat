@@ -3,6 +3,6 @@
 
 # 构建方式
 sh ./autobuild.sh
-or
+  or
 cd build/
 cmake .. && make 
